@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@900&family=Exo+2:ital,wght@1,900&family=Monofett&family=Raleway:ital,wght@1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@900&family=Exo+2:ital,wght@1,900&family=Monofett&family=Raleway:ital,wght@0,900;1,800&display=swap');
+body{
+    background: url("background.jpg.jpg");
+}
+#status
+{
+    font-family: 'Cinzel', serif;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Monofett', cursive;
+    font-family: 'Raleway', sans-serif;
+    background-color: gainsboro;
+    font-size: 30px;
+    color: olivedrab;
+    width: 40%;
+    border-radius: 10px;
+
+}
+#h1{
+    background-color:rgb(218, 252, 224);
+    width: 30%;
+    height: 60px;
+    border-radius: 6px;
+    font-family: 'Cinzel', serif;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Monofett', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    display: inline-block;
+}
+canvas{
+    border-width: 5px;
+    border-color: black;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 5px;
+}
+#copyright_footer{
+    position: fixed;
+    color: rgb(218, 252, 224);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(115, 130, 118);
+    line-height: 3;
+    text-align: center;
+}
+#note{
+    background-color: cornflowerblue;
+    font-size: 30px;
+    color: orange;
+    width: 40%;
+    border-radius: 10px;
+    font-family: 'Cinzel', serif;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Monofett', cursive;
+    font-family: 'Raleway', sans-serif;
+}
